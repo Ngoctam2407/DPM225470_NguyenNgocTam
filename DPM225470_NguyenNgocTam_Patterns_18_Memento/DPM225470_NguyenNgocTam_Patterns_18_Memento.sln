@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225470_NguyenNgocTam_Patterns_18_Memento", "DPM225470_NguyenNgocTam_Patterns_18_Memento.csproj", "{265F9051-4CAD-0423-06A0-EFB49F4D33EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265F9051-4CAD-0423-06A0-EFB49F4D33EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265F9051-4CAD-0423-06A0-EFB49F4D33EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265F9051-4CAD-0423-06A0-EFB49F4D33EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265F9051-4CAD-0423-06A0-EFB49F4D33EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75CD1D2D-4703-4646-843F-9137C7200A9E}
+	EndGlobalSection
+EndGlobal
