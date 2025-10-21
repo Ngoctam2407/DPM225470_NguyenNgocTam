@@ -1,0 +1,14 @@
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\bin\Debug\net9.0\BTVN_BaoTri.exe
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\bin\Debug\net9.0\BTVN_BaoTri.deps.json
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\bin\Debug\net9.0\BTVN_BaoTri.runtimeconfig.json
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\bin\Debug\net9.0\BTVN_BaoTri.dll
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\bin\Debug\net9.0\BTVN_BaoTri.pdb
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\obj\Debug\net9.0\BTVN_BaoTri.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\obj\Debug\net9.0\BTVN_BaoTri.AssemblyInfoInputs.cache
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\obj\Debug\net9.0\BTVN_BaoTri.AssemblyInfo.cs
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\obj\Debug\net9.0\BTVN_BaoTri.csproj.CoreCompileInputs.cache
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\obj\Debug\net9.0\BTVN_BaoTri.dll
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\obj\Debug\net9.0\refint\BTVN_BaoTri.dll
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\obj\Debug\net9.0\BTVN_BaoTri.pdb
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\obj\Debug\net9.0\BTVN_BaoTri.genruntimeconfig.cache
+E:\Bảo Trì\DPM225470_NguyenNgocTam_BT_TH\BTVN\BTVN_BaoTri\BTVN_BaoTri\obj\Debug\net9.0\ref\BTVN_BaoTri.dll
